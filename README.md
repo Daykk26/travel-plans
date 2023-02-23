@@ -1,11 +1,29 @@
-# Starting a garden
-First setp to start a garden'
-##Chose what you want to plant
--Vegetable
--Flower
-##Prepare the ground
--Select appropriaat soil
--Prepare planting bed
-##Start planting
--Pick plant
--Water as needed
+# Traveling
+
+## First step Chose favorite destinations
+
+New York
+
+Paris
+
+Lome
+
+Ouidah
+
+## Step two Prepare travel documents
+
+Passport
+
+ID
+
+Tavel guide
+
+## Step three Make a move
+
+Schedule all bills payments
+
+Get suitcase ready
+
+Get on a plane
+
+Explore the destinatons
